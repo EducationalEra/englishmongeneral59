@@ -30,7 +30,7 @@
  Трудові навички</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Дієслово:</b><br>
-The Gerund. The Infinitive. Conditional 1. Relative Clause.<br>
+The Gerund. The Infinitive. Conditional I. Relative Clause.<br>
 <b>Займенник:</b><br>
 відносний - who, which, that.<br>
 <b>Сполучник:</b><br> 
